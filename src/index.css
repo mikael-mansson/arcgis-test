@@ -1,0 +1,13 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    height: 500px;
+    width: 100%;
+}
+
+body,
+html,
+#root {
+    width: 100%;
+    height: 100%;
+}
